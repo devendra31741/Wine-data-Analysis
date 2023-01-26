@@ -1,2 +1,2 @@
 This is an internship project made by Devendra Kandpal while doing internship project in iNeuron and submitted on 27 jan 2023. This folder contains all important files like HLD, LLD, ARCHITECTURE, WIREFRAME, DPR and project video
-the analysis is done on power bi and it is is sales analysis named file 
+the analysis is done on power bi and it is is WINE ANALYSIS named file 
